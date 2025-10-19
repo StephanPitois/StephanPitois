@@ -1,6 +1,8 @@
-Hi, I’m Stephan, a software engineer focused on frontend and full-stack development.
+Hi, I’m Stephan, a software engineer focused on frontend and full-stack development.  
 
-This place is under renovation. Check back soon.
+All of my work so far has been closed-source under company accounts, so I’m now building a public portfolio here.  
+
+It may be a bit empty for now, but please check again soon.
 
 <!--
 **StephanPitois/StephanPitois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

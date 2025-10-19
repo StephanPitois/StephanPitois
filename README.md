@@ -1,6 +1,6 @@
 Hi, I’m Stephan, a software engineer focused on frontend and full-stack development.  
 
-All of my work so far has been closed-source under company accounts, so I’m now building a public portfolio here.  
+Most of my work so far has been closed-source under company accounts, so I’m now building a public portfolio here.  
 
 It may be a bit empty for now, but please check again soon.
 
